@@ -12,7 +12,7 @@
 # Requirements
 
 ```
-git clone [git clone https://github.com/AirdropFamilyIDN-V2-0/grass.git](https://github.com/brovicent/grass.git)
+git clone https://github.com/brovicent/grass.git
 ```
 ```
 cd grass
